@@ -1,0 +1,8 @@
+find /u01 -name '*.dbf' -delete
+find /u01 -name '*.arc' -delete
+find /u01 -name '*.log' -delete
+find /u01 -name '*.trc' -delete
+find /u01 -name '*.aud' -delete
+find /u01 -name '*.bak' -delete
+find /u01 -name '*.bkp' -delete
+~
